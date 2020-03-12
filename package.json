@@ -9,6 +9,7 @@
     "name": "hm496",
     "email": "hm496@163.com"
   },
+  "description": "ctrip-apollo for egg",
   "keywords": [
     "egg",
     "egg-plugin",
