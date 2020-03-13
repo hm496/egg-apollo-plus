@@ -18,8 +18,8 @@ $ npm i egg-apollo-plus
 
 ```js
 // {app_root}/config/config.default.js
-exports.static = {
-  // maxAge: 31536000,
+exports.apollo = {
+  // host: 'http://localhost:8070',
 };
 ```
 
