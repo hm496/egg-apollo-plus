@@ -1,5 +1,5 @@
 # egg-apollo-plus
-携程Apollo配置中心的egg-plugin，基于[ctrip-apollo](https://github.com/kaelzhang/ctrip-apollo)。
+[ctrip-apollo](https://github.com/kaelzhang/ctrip-apollo) plugin for egg.      
 ## Install
 
 ```sh
