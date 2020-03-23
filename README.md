@@ -13,8 +13,9 @@ $ npm i egg-apollo-plus
 - cachePath: `path.join(appInfo.baseDir, 'apollo_cache')`
 - host: `'http://localhost:8070'`
 
-`egg-apollo-plus` provides one more option:
+`egg-apollo-plus` provides more options:
 - namespaces: `['application']`
+- parseConfig: `true` parse json config
 
 ```js
 // {app_root}/config/config.default.js

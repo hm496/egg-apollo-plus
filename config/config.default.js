@@ -6,6 +6,7 @@ module.exports = appInfo => {
   const exports = {};
 
   exports.apollo = {
+    parseConfig: true,
     cachePath: path.join(appInfo.baseDir, 'apollo_cache'),
     host: 'http://localhost:8070',
     namespaces: ['application'],
